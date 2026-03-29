@@ -18,6 +18,25 @@ The system processes every email through a three-stage verification pipeline:
 | **Stage 3** | **Heuristic Audit** | Checks for "Environmental" red flags like link density, urgency markers, and aggressive capitalization. |
 
 ---
+## 📸 Screenshots & Visuals
+
+### Input / Output 1  
+![Input Output 1](Screenshots/INPUT-OUTPUT-1.PNG)
+
+### Input / Output 2  
+![Input Output 2](Screenshots/INPUT-OUTPUT-2.PNG)
+
+### Input / Output 3  
+![Input Output 3](Screenshots/INPUT-OUTPUT-3.PNG)
+
+### Input / Output 4  
+![Input Output 4](Screenshots/INPUT-OUTPUT-4.PNG)
+
+### 1. Application Startup
+*What the user sees when launching the detector in the terminal.*
+
+### 2. Risk Detection Example
+*Example of a high-risk phishing email being flagged by the system.*
 
 ## ✨ Key Features
 
@@ -73,25 +92,7 @@ Developers can refine accuracy by modifying:
 
 ---
 
-## 📸 Screenshots & Visuals
 
-### Input / Output 1  
-![Input Output 1](Screenshots/INPUT-OUTPUT-1.PNG)
-
-### Input / Output 2  
-![Input Output 2](Screenshots/INPUT-OUTPUT-2.PNG)
-
-### Input / Output 3  
-![Input Output 3](Screenshots/INPUT-OUTPUT-3.PNG)
-
-### Input / Output 4  
-![Input Output 4](Screenshots/INPUT-OUTPUT-4.PNG)
-
-### 1. Application Startup
-*What the user sees when launching the detector in the terminal.*
-
-### 2. Risk Detection Example
-*Example of a high-risk phishing email being flagged by the system.*
 
 ---
 
