@@ -1,10 +1,10 @@
 # 📘 PROJECT REPORT  
-## 📧 Email Safety Checker using Machine Learning  
+## 📧 Phishing Email Detector  
 
 ---
 
 ## 🏫 Cover Page  
-**Project Title:** Email Safety Checker using Machine Learning  
+**Project Title:** Phishing Email Detector  
 **Technology Used:** Machine Learning, NLP  
 **Programming Language:** Python  
 
@@ -17,7 +17,7 @@
 ---
 
 ## 📜 Certificate  
-This is to certify that **Sajid Ali (25BCE10964)** has successfully completed the project titled **“Email Safety Checker using Machine Learning”** as part of the course **CSA2001** at **VIT Bhopal**.  
+This is to certify that **Sajid Ali (25BCE10964)** has successfully completed the project titled **“Phishing Email Detector”** as part of the course **CSA2001** at **VIT Bhopal**.  
 
 ---
 
@@ -48,7 +48,7 @@ I would like to sincerely thank my faculty members and **VIT Bhopal** for their 
 ## 1. Abstract  
 Phishing attacks are a major cybersecurity threat where attackers trick users into revealing sensitive information such as passwords, bank details, and personal data. These attacks are often carried out through deceptive emails that appear legitimate.  
 
-This project presents an **Email Safety Checker**, which uses Machine Learning and Natural Language Processing (NLP) techniques to detect phishing emails. The system analyzes email content and metadata such as links and urgency indicators to classify emails as safe or malicious.  
+This project presents an **Phishing Email Detector**, which uses Machine Learning and Natural Language Processing (NLP) techniques to detect phishing emails. The system analyzes email content and metadata such as links and urgency indicators to classify emails as safe or malicious.  
 
 ---
 
