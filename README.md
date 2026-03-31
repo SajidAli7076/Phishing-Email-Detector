@@ -1,4 +1,4 @@
-#  Email Phishing Detector
+#  Phishing Email Detector
 
 The **Email Phishing Detector** is a comprehensive security tool designed to identify, analyze, and flag malicious emails. By leveraging a hybrid architecture that combines **Natural Language Processing (NLP)** with **Heuristic Behavioral Analysis**, this tool provides a robust first line of defense against social engineering attacks.
 
@@ -98,4 +98,4 @@ Developers can refine accuracy by modifying:
 
 ##  Conclusion
 
-The **Email Phishing Detector** provides a streamlined, AI-driven approach to identifying digital threats. By combining mathematical probability with common-sense security heuristics, it empowers users to evaluate their inbox with greater technical scrutiny. As phishing tactics continue to evolve, this tool serves as a foundation for building more resilient, data-informed security habits.
+The **Phishing Email Detector** provides a streamlined, AI-driven approach to identifying digital threats. By combining mathematical probability with common-sense security heuristics, it empowers users to evaluate their inbox with greater technical scrutiny. As phishing tactics continue to evolve, this tool serves as a foundation for building more resilient, data-informed security habits.
