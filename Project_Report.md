@@ -1,9 +1,9 @@
-# 📘 PROJECT REPORT  
-## 📧 Phishing Email Detector  
+#  PROJECT REPORT  
+##  Phishing Email Detector  
 
 ---
 
-## 🏫 Cover Page  
+##  Cover Page  
 **Project Title:** Phishing Email Detector  
 **Technology Used:** Machine Learning, NLP  
 **Programming Language:** Python  
@@ -15,12 +15,12 @@
 **Submission Date:** 31/03/26  
 
 ---
-## 🙏 Acknowledgement  
+##  Acknowledgement  
 I would like to sincerely thank my faculty members and **VIT Bhopal** for their valuable guidance and support throughout the completion of this project.  
 
 ---
 
-## 📑 Index  
+##  Index  
 1. Abstract  
 2. Introduction  
 3. Objectives  
