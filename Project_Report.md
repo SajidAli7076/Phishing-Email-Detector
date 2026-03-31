@@ -3,7 +3,6 @@
 
 ---
 
-##  Cover Page  
 **Project Title:** Phishing Email Detector  
 **Technology Used:** Machine Learning, NLP  
 **Programming Language:** Python  
