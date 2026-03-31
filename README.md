@@ -1,10 +1,10 @@
-# 🛡️ Email Phishing Detector
+#  Email Phishing Detector
 
 The **Email Phishing Detector** is a comprehensive security tool designed to identify, analyze, and flag malicious emails. By leveraging a hybrid architecture that combines **Natural Language Processing (NLP)** with **Heuristic Behavioral Analysis**, this tool provides a robust first line of defense against social engineering attacks.
 
 ---
 
-## 🔍 System Overview
+##  System Overview
 
 Phishing attacks have become increasingly sophisticated, often bypassing traditional spam filters by using "Clean" domains or complex social engineering tactics. This detector goes beyond simple blacklists by analyzing the **intent** and **structure** of the message text.
 
@@ -18,7 +18,7 @@ The system processes every email through a three-stage verification pipeline:
 | **Stage 3** | **Heuristic Audit** | Checks for "Environmental" red flags like link density, urgency markers, and aggressive capitalization. |
 
 ---
-## 📸 Screenshots & Visuals
+##  Screenshots & Visuals
 
 ### Input / Output 1  
 ![Input Output 1](Screenshots/INPUT-OUTPUT-1.png)
@@ -38,7 +38,7 @@ The system processes every email through a three-stage verification pipeline:
 ### 2. Risk Detection Example
 *Example of a high-risk phishing email being flagged by the system.*
 
-## ✨ Key Features
+##  Key Features
 
 * **Intelligent Text Cleaning:** Automatically normalizes case, removes noisy symbols, and identifies hidden URL patterns.
 * **Weighted Risk Scoring:** Calculates a risk percentage (0% - 100%) based on both AI confidence and hard-coded triggers.
@@ -48,7 +48,7 @@ The system processes every email through a three-stage verification pipeline:
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 Ensure you have **Python 3.8+** installed on your system.
@@ -58,7 +58,7 @@ The detector requires `pandas` and `scikit-learn`. Install them using:
 
 bash
 pip install pandas scikit-learn
-## 📖 Operational Guide
+##  Operational Guide
 
 1.  **Run the Tool:** Execute `python phishing_detector.py` in your terminal.
 2.  **Paste Email:** Copy the body of the suspicious email into the console.
@@ -67,7 +67,7 @@ pip install pandas scikit-learn
 
 ---
 
-## 🛠️ Advanced Customization
+##  Advanced Customization
 
 Developers can refine accuracy by modifying:
 
@@ -76,7 +76,7 @@ Developers can refine accuracy by modifying:
 
 ---
 
-## 🛡️ Security Best Practices
+##  Security Best Practices
 
 *   **The "Hover" Rule:** Always hover your mouse over links to see the actual destination URL before clicking.
 *   **MFA is Mandatory:** Always enable Multi-Factor Authentication on sensitive accounts.
@@ -84,7 +84,7 @@ Developers can refine accuracy by modifying:
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 *   **Advanced URL Reputation:** Integrating external APIs (like VirusTotal) to check global blacklists.
 *   **Attachment Scanning:** Implementing file-extension checks for dangerous attachments (e.g., `.zip`, `.exe`).
@@ -96,6 +96,6 @@ Developers can refine accuracy by modifying:
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 The **Email Phishing Detector** provides a streamlined, AI-driven approach to identifying digital threats. By combining mathematical probability with common-sense security heuristics, it empowers users to evaluate their inbox with greater technical scrutiny. As phishing tactics continue to evolve, this tool serves as a foundation for building more resilient, data-informed security habits.
